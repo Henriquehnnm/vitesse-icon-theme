@@ -1,0 +1,41 @@
+{
+  "name": "vitasse-icon-theme",
+  "displayName": "Vitasse Icon Theme",
+  "description": "Vitasse icons for VS Code",
+  "version": "1.0.0",
+  "publisher": "Henriquehnnm",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icon-theme",
+    "theme",
+    "vitasse"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Henriquehnnm/vitasse-icon-theme.git"
+  },
+  "scripts": {
+    "preview": "node scripts/preview.js"
+  },
+  "type": "module",
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "vitasse-dark",
+        "label": "Vitasse Dark",
+        "path": "./icons/vitesse-dark/theme.json"
+      },
+      {
+        "id": "vitasse-light",
+        "label": "Vitasse Light",
+        "path": "./icons/vitesse-light/theme.json"
+      }
+    ]
+  }
+}
