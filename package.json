@@ -1,8 +1,8 @@
 {
-  "name": "vitasse-icon-theme",
-  "displayName": "Vitasse Icon Theme",
-  "description": "Vitasse icons for VS Code",
-  "version": "1.0.0",
+  "name": "vitesse-icon-theme",
+  "displayName": "Vitesse Icon Theme",
+  "description": "Vitesse icons for VS Code",
+  "version": "1.0.2",
   "publisher": "Henriquehnnm",
   "icon": "icon.png",
   "engines": {
@@ -14,11 +14,11 @@
   "keywords": [
     "icon-theme",
     "theme",
-    "vitasse"
+    "vitesse"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Henriquehnnm/vitasse-icon-theme.git"
+    "url": "https://github.com/Henriquehnnm/vitesse-icon-theme.git"
   },
   "scripts": {
     "preview": "node scripts/preview.js"
@@ -27,13 +27,13 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "vitasse-dark",
-        "label": "Vitasse Dark",
+        "id": "vitesse-dark",
+        "label": "Vitesse Dark",
         "path": "./icons/vitesse-dark/theme.json"
       },
       {
-        "id": "vitasse-light",
-        "label": "Vitasse Light",
+        "id": "vitesse-light",
+        "label": "Vitesse Light",
         "path": "./icons/vitesse-light/theme.json"
       }
     ]
