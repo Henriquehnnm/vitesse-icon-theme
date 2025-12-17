@@ -1,7 +1,7 @@
 # Vitesse Icon Theme
 
 <p align="center">
-  <img src="https://github.com/Henriquehnnm/vitesse-icon-theme/blob/main/icon.png" width="128" alt="Vitesse Icon Theme Logo">
+  <img src="https://raw.githubusercontent.com/Henriquehnnm/vitesse-icon-theme/refs/heads/main/icon.png" width="128" alt="Vitesse Icon Theme Logo">
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@ Vitesse (a portmanteau of _Vitesse_ and _Vite_) is a file icon theme for VS Code
 The icons are designed with a minimalist aesthetic, using a consistent color palette and style to provide a visually pleasing and non-distracting coding environment.
 
 ## Previews
-![Vitesse Dark](https://github.com/Henriquehnnm/vitesse-icon-theme/blob/main/previews/vitesse-dark.png)
+![Vitesse Dark](https://raw.githubusercontent.com/Henriquehnnm/vitesse-icon-theme/refs/heads/main/previews/vitesse-dark.png)
 
-![Vitesse Light](https://github.com/Henriquehnnm/vitesse-icon-theme/blob/main/previews/vitesse-light.png)
+![Vitesse Light](https://raw.githubusercontent.com/Henriquehnnm/vitesse-icon-theme/refs/heads/main/previews/vitesse-light.png)
 
 ### Vitesse Dark
 
