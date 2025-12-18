@@ -2,7 +2,7 @@
   "name": "vitesse-icon-theme",
   "displayName": "Vitesse Icon Theme",
   "description": "Vitesse icons for VS Code",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "publisher": "Henriquehnnm",
   "icon": "icon.png",
   "engines": {
